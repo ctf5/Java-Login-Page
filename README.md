@@ -9,7 +9,7 @@ To run the login page, follow these steps:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/IsukaM/simple-java-swing-login-page.git
+   git clone https://github.com/ctf5/Java-Login-Page.git
    ```
 
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
